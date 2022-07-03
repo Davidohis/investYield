@@ -25,7 +25,8 @@ const OurAdvisoryTeam = () => {
       <Container>
         <TextWrapper>
           <TeamTitle>
-            Advisory Team <div></div>
+            Advisory Team <span>{"{Coming Soon}"}</span>
+            <div></div>
           </TeamTitle>
         </TextWrapper>
         <TeamWrapper>

@@ -14,7 +14,7 @@ export default function BottomHeaderComponent() {
     >
       <Container>
         <BottomHeaderWrapper>
-          <h1>What are you still waiting for?</h1>
+          <h1>What are you still waiting for ?</h1>
           <p>Download the app on your mobile device now.</p>
 
           <div>

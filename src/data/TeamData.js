@@ -15,7 +15,7 @@ export const TeamData = [
   {
     id: Math.random(),
     name: "Oghenerukevwe Egbaivwie",
-    title: "Growth associate and Business Manager",
+    title: "Growth Associate and Business Manager",
     img: image2,
   },
   {

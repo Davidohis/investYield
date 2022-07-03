@@ -15,6 +15,10 @@ export const TeamTitle = styled.h2`
   line-height: 1.1;
   font-weight: 600;
 
+  & > span {
+    color: #3f3d56;
+  }
+
   @media screen and (max-width: 960px) {
     font-size: 1.5rem;
   }
